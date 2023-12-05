@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "https://pixabay.com/photos/flower-dahlia-blossom-close-up-8200546";
+import image from "../images/server-wall.jpg";
 
-const imageAltText = "flower";
+const imageAltText = "picture";
 
 const Home = ({ name, title }) => {
   return (
