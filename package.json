@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Dew2003.github.io/DDwivedi2003",
+  "homepage": "http://dew2003.github.io/DDwivedi2003",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Dew2003.github.io/DDwivedi2003'",
+    "build-gh": "parcel build --public-url 'https://dew2003.github.io/DDwivedi2003'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
